@@ -18,3 +18,8 @@ cachetools
 tqdm
 aiofiles
 psutil
+anyio
+telethon
+av
+aiohttp
+cryptography
